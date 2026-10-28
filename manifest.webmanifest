@@ -1,0 +1,1 @@
+{"name":"F1 Race Hub","short_name":"Race Hub","description":"Independent F1 calendar and data dashboard","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#090b10","theme_color":"#090b10","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
